@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Wireless Sensors & Drones in IoT
-subtitle: Wi-DroIT 2024
+title: Unmanned Autonomous Vehicles and IoT
+subtitle: UAV-IoT 2024
 cover-img: "assets/img/banner.png"
 ---
 
 
 
 
-_6th International Workshop on_
+_International Workshop on_
 {: style="text-align: center"}
 
-_Wireless Sensors and Drones in the Internet of Things (Wi-DroIT) 2024_
+_International Workshop on Unmanned Autonomous Vehicles and IoT (UAV-IoT) 2024_
 {: style="text-align: center"}
 
 Abu Dhabi, United Arab Emirates
@@ -20,7 +20,7 @@ Abu Dhabi, United Arab Emirates
 **April 29 - May 1, 2024**
 {: style="text-align: center"}
 
-**co-located with [DCOSS 2024](https://dcoss.org/)**
+**co-located with [MASS 2024](https://dcoss.org/](https://sites.google.com/view/ieee-mass-2024))**
 {: style="text-align: center"}
 
 **Submission link: [click here](https://easychair.org/conferences/?conf=widroit2024 )**
@@ -30,51 +30,44 @@ Abu Dhabi, United Arab Emirates
 ## Scope
 {: style="color:#32a852"}
 
-Recently, the rapid development of Unmanned Autonomous Vehicles (UAVs), also known as drones, has highlighted a plethora of emergent applications such as infrastructure inspection and surveillance, smart agriculture, seek and rescue, parcel delivery, communications, and post-disaster recovery. In all these applications UAVs may coexist with ground Internet of Things (IoT) devices. For example, UAVs autonomously perform remote sensing relaying the collected data by the sensors. 
-Additionally, one or more UAVs can collaborate to provide services that require efficient protocols where multiple objectives and constraints need to be considered.
+The objective of this workshop is to bring together researchers, engineers, and practitioners from academia and industry to share their latest research findings and practical experiences in the area of Unmanned Autonomous Vehicles (UAVs) and its synergy with Internet of Things (IoT). The workshop will provide a platform to discuss the challenges and opportunities of UAVs and IoT integration, their applications, and their impact on various domains such as transportation, agriculture, healthcare, and environmental monitoring. Over the past decade, advances in Internet of Things, edge computing and wireless communication have led to the evolution of advanced form of smart systems to utilize our resources intelligently. Originated from RFID and wireless sensor networks (WSNs), the paradigm of IoT has been transforming every aspect of human life including healthcare, energy, transportation, manufacturing and entertainment. Recently, the rapid development of Unmanned Autonomous Vehicles (UAVs), like aerial drones, or any other automated carriers on road, has highlighted a plethora of emergent applications such as infrastructure inspection, surveillance, smart agriculture, search and rescue, parcel delivery, post-disaster recovery, and many more. In all these applications, UAVs may coexist and synergize with Internet of Things (IoT). For energy-constrained sensor devices of IoT, UAVs may collect the data and communicate it to other devices that are out of the communication ranges. Also, using IoT technologies, UAVs may autonomously perform remote sensing relaying either the raw data by the sensors, or an aggregated view using edge computing to reduce latency and communication overhead. Additionally, one or more UAVs can collaborate to provide services that require efficient protocols where multiple objectives and constraints need to be considered. Moreover, with the rising concern of global warming, care should be taken to make these emerging applications green, sustainable and eco-friendly. 
 
 {: style="text-align: justify"}
 
-For this workshop, we seek papers that combine the design of algorithms and testbed implementations to develop the theoretical foundations for UAVs as well as the synergies with IoT devices. The numerous emergent applications raised by IoT may require an interdisciplinary approach involving techniques from algorithm foundations and different areas, such as computer networks, artificial intelligence, concurrent, parallel, and distributed computing, security, digital signal, image, and sound processing.
+This workshop will consider the research works that combine the design of algorithms and test bed implementations to develop the theoretical foundations for UAVs as well as the synergies with IoT devices.
 {: style="text-align: justify"}
 
 
-## Topics of Interest
+## Topics of Interest (but not limited to)
 {: style="color:#32a852"}
 
-- Autonomous sensing via UAVs
-- Topology monitoring with UAVs
-- Remote sensing networks via UAVs
-- Communication protocols of UAVs over IoT
-- Modeling and analysis of UAVs over IoT
-- Precision agriculture and UAVs
-- Crops monitoring in agriculture
-- Bugs monitoring in agriculture
-- UAVs for environmental monitoring
-- Autopilot and UAS autonomy
-- UAVs path planning and scheduling
-- Parcel delivery using UAVs
-- Cellular networks and UAVs
-- Constrained and multi-objectives problems
-- Sensors localization with UAVs
-- UAVs tracking techniques
-- Cooperative control of multiple UAVs
-- Cyber-security communications and UAVs
-- Optimal UAV deployment strategies
-- Test-beds and experimental results for UAVs
-- Single UAV applications
-- Multi-UAV applications
-- Energy-efficient UAV communications
-- Machine learning for UAV communications
+- UAV-Enabled Sensor Networks 
 
+- Energy-aware Applications of UAV and IoT 
+
+- Communication protocols of UAVs over IoT 
+
+- Autopilot and UAS autonomy 
+
+- UAVs path planning and scheduling 
+
+- Cellular networks and UAVs 
+
+- Test-beds and experimental results for UAV and IoT 
+
+- Energy-efficient UAV communications 
+
+- Green and sustainable applications of UAVs with IoT
+
+- Battery and energy management in UAV-based networks 
 
 ## Important dates
 {: style="color:#32a852"}
 
-- **Paper Submission**: March 1, 2024 
-- **Acceptance Notification**:  March 15, 2024 
-- **Camera Ready Deadline**: March 29, 2024 <!--firm - [Instructions](https://dcoss.org/camera-ready-instructions/) -->
-<!-- - **Workshop Day**: June 20th, afternoon -->
+- **Paper Submission**: Friday, June 21, 2024 (11:59pm AoE) 
+- **Acceptance Notification**:  Friday, July 26, 2024 
+- **Camera Ready Deadline**: Friday, August 9, 2024 <!--firm - [Instructions](https://sites.google.com/view/ieee-mass-2024) -->
+- **Workshop Day**: Wednesday, September 23-25, 2024 
 
 
 * * *
@@ -82,11 +75,12 @@ For this workshop, we seek papers that combine the design of algorithms and test
 ## Author information
 {: style="color:#32a852"}
 
-Authors are invited to submit original unpublished manuscripts that demonstrate current research on distributed sensor systems related to Wi-DroIT topics of interest. Please use the US letter size (8.5 x 11 in) standard IEEE conference LaTeX format or Microsoft Word template available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html):
-{: style="text-align: justify"}
+Prospective authors are invited to submit original and unpublished research papers that
+are not currently under review elsewhere. The papers should be written in English and
+should not exceed 6 pages in length. The papers should follow the IEEE conference
+format. All papers will be reviewed by the program committee and accepted papers will
+be published in the workshop proceedings.
 
-All submissions should be written in English and submitted as a full paper. Full papers should have a maximum of eight (8) printed pages including figures and references. Full papers are expected to describe fully developed ideas with a thorough evaluation.
-Note that Wi-DroIT does not follow the double-blind review policy. The names and affiliations of all the authors must be present in the submitted manuscript.
 {: style="text-align: justify"}
 
 
@@ -95,48 +89,31 @@ Note that Wi-DroIT does not follow the double-blind review policy. The names and
 
 ### Workshop Chairs
 {: style="color:#32a852"}
-- **Evgenii Vinogradov**: Technology Innovation Institute, United Arab Emirates
 - **Federico Corò**: University of Padova, Italy
-- **Nirnay Ghosh**: Indian Institute of Engineering Science and Technology Shibpur, India
+- **Punyasha Chatterjee**: Jadavpur University, India
 
 ### Steering Committee
 {: style="color:#32a852"}
-- **Enrico Natalizio**: Technology Innovation Institute, United Arab Emirates
-- **Cristina M. Pinotti**: University of Perugia, Italy
-- **Francesco Betti Sorbelli**: University of Perugia, Italy
+ TBD
   
 ### Program Committee
 {: style="color:#32a852"}
-- **Alessandro Brighente**: University of Padova
-- **Alfredo Navarra**: Università degli Studi di Perugia
-- **Antonis Savva**: KIOS Research and Innovation Centre of Excellence, University of Cyprus
-- **Chengyi Qu**: Florida Gulf Coast University
-- **Dimitrios Zorbas**: Nazarbayev University, Kazakhstan
-- **Eirini Tsiropoulou**: University of New Mexico
-- **Lars Wolf**: TU Baunschweig
-- **Lorenzo Palazzetti**: Università degli Studi di Firenze
-- **Luca Davoli**: University of Parma
-- **Nicola Roberto Zema**: University of Paris-Saclay
-- **Pietro Tedeschi**: Technology Innovation Institute
-- **Punyasha Chatterjee**: Jadavpur University
-- **Savio Sciancalepore**: Eindhoven University of Technology (TU/e)
-- **Tathagata Mukherjee**: University of Alabama in Huntsville
-- **Sajjad Ghobadi**: University of Perugia
-
+TBD
 
 
 ### Publicity Chair
 {: style="color:#32a852"}
-- **Lorenzo Palazzetti**: Università degli Studi di Firenze
+TBD
 
 ### Web Chair
 {: style="color:#32a852"}
-- **Pulak Majumdar**: Indian Institute of Engineering Science and Technology Shibpur, India
-
+- **Salah Eddine Merzougui**: University of Padova, Italy
+- **Mirko Franco**: University of Padova, Italy
+  
 ## Program
 {: style="color:#32a852"}
-
-
+TBD
+<!--
 10:30-10:35: Workshop opening
 
 
@@ -214,12 +191,8 @@ Ecosystems*" , Ravi Mukkamala, Stephan Olariu, Meshari Aljohani, Mohan Sunkara a
 Aldabagh,
 
 17:10-17:15:  Closing Remarks
-
+-->
 
 ## Past editions
 {: style="color:#32a852"}
-- [Wi-DroIT 2023](https://widroit2023.github.io)
-- [Wi-DroIT 2022](https://widroit2022.github.io)
-- [Wi-DroIT 2021](https://widroit2021.github.io)
-- [Wi-DroIT 2020](https://sites.google.com/view/widroit2020/home)
-- [Wi-DroIT 2019](https://widroit2019.loria.fr)
+- [UAV-IoT 2023](https://sites.google.com/view/ieee-mass-uav-iot-2023/home)
