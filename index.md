@@ -14,7 +14,7 @@ _International Workshop on_
 _International Workshop on Unmanned Autonomous Vehicles and IoT (UAV-IoT) 2024_
 {: style="text-align: center"}
 
-Abu Dhabi, United Arab Emirates
+<!-- Padova, Italy -->
 {: style="text-align: center"}
 
 **April 29 - May 1, 2024**
@@ -23,7 +23,7 @@ Abu Dhabi, United Arab Emirates
 **co-located with [MASS 2024](https://sites.google.com/view/ieee-mass-2024)**
 {: style="text-align: center"}
 
-**Submission link: [click here](https://edas.info/N32058)**
+**Submission link: [click here](TBD)**
 {: style="text-align: center"}
 
 
@@ -43,9 +43,17 @@ This workshop will consider the research works that combine the design of algori
 
 - UAV-Enabled Sensor Networks 
 
-- Energy-aware Applications of UAV and IoT 
+- Green and sustainable applications of UAVs with IoT 
 
 - Communication protocols of UAVs over IoT 
+
+- UAVs for environmental monitoring 
+
+- UAVs for disaster handling 
+
+- IoT-enabled UAV for Search and Rescue operations 
+
+- IoT-enabled UAV for 3D mapping and surveying. 
 
 - Autopilot and UAS autonomy 
 
@@ -53,11 +61,23 @@ This workshop will consider the research works that combine the design of algori
 
 - Cellular networks and UAVs 
 
+- UAVs tracking techniques 
+
+- Cooperative control of UAV swarms 
+
+- Optimal UAV deployment strategies 
+
 - Test-beds and experimental results for UAV and IoT 
 
 - Energy-efficient UAV communications 
 
-- Green and sustainable applications of UAVs with IoT
+- Machine learning for UAV communications 
+
+- BVLoS operation of UAV 
+
+- Green and sustainable applications of UAVs with IoT 
+
+- Scalable Wireless Charging platforms for UAV networks 
 
 - Battery and energy management in UAV-based networks 
 
