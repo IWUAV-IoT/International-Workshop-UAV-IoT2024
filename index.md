@@ -17,7 +17,7 @@ _Unmanned Autonomous Vehicles and IoT (UAV-IoT) 2024_
 <!-- Padova, Italy -->
 {: style="text-align: center"}
 
-**April 29 - May 1, 2024**
+**September 23 - 25, 2024**
 {: style="text-align: center"}
 
 **co-located with [MASS 2024](https://sites.google.com/view/ieee-mass-2024)**
