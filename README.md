@@ -6,4 +6,8 @@ _International Workshop on_
 _International Workshop on Unmanned Autonomous Vehicles and IoT (UAV-IoT) 2024_
 
 
-**September 25, 2024**
+**September 23 - 25, 2024**
+
+**co-located with [MASS 2024]()**
+
+**Submission link: [click here](TBD)**
