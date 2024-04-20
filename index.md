@@ -20,10 +20,10 @@ Abu Dhabi, United Arab Emirates
 **April 29 - May 1, 2024**
 {: style="text-align: center"}
 
-**co-located with [MASS 2024](https://dcoss.org/](https://sites.google.com/view/ieee-mass-2024))**
+**co-located with [MASS 2024](https://sites.google.com/view/ieee-mass-2024)**
 {: style="text-align: center"}
 
-**Submission link: [click here](https://easychair.org/conferences/?conf=widroit2024 )**
+**Submission link: [click here](https://edas.info/N32058)**
 {: style="text-align: center"}
 
 
