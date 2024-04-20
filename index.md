@@ -11,7 +11,7 @@ cover-img: "assets/img/banner.png"
 _International Workshop on_
 {: style="text-align: center"}
 
-_International Workshop on Unmanned Autonomous Vehicles and IoT (UAV-IoT) 2024_
+_Unmanned Autonomous Vehicles and IoT (UAV-IoT) 2024_
 {: style="text-align: center"}
 
 <!-- Padova, Italy -->
