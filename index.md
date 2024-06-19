@@ -84,7 +84,7 @@ This workshop will consider the research works that combine the design of algori
 ## Important dates
 {: style="color:#32a852"}
 
-- **Paper Submission**: Friday, June 21, 2024 (11:59pm AoE) 
+- **Paper Submission**: ~~Friday, June 21, 2024 (11:59pm AoE)~~ Wednesday, July 8, 2024 (11:59pm AoE)
 - **Acceptance Notification**:  Friday, July 26, 2024 
 - **Camera Ready Deadline**: Friday, August 9, 2024 <!--firm - [Instructions](https://sites.google.com/view/ieee-mass-2024) -->
 - **Workshop Day**: Wednesday, September 23-25, 2024 
